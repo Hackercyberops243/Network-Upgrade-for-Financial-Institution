@@ -1,0 +1,5 @@
+This is a text File
+
+The configs available on this folder are not for all the routers and switches
+
+you can verify the configs by entering directly into the lab with packet Tracer
