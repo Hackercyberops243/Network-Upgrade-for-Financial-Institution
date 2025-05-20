@@ -23,6 +23,7 @@ Servers (FTP, DNS, DHCP)
 Desktop and laptop computers for administration
 
 Network Diagram
+![Network Diagram](./schema/schema.png)
 
 
 
