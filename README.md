@@ -4,6 +4,8 @@ Network Upgrade for a Financial Institution
 
 This project involves modernizing and enhancing the network architecture of a financial institution whose infrastructure had not been updated since 2000. The goal is to implement a reliable, secure, and easily manageable infrastructure using Cisco equipment and advanced configurations.
 
+In this simulations, the users from inside the network are not allowed to access certains website, and can be able to connect to another network site using the VPN.
+
 🗺️ Network Architecture
 
 The network architecture consists of the following components:
@@ -98,3 +100,4 @@ Validate firewall rules and access control lists (ACLs).
 📝 Authors
 
 Created by Nehemie Kembo Bongi as part of an academic capstone project.
+Project created in 2023
